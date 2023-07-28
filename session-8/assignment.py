@@ -2,7 +2,7 @@
 import pickle
 import json
 import os
-import cv2
+import cv2 as cv2
 import pandas as pd
 
 
